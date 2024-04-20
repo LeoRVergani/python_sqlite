@@ -12,6 +12,7 @@ cursor = banco.cursor()
 
 # cursor.execute("INSERT INTO pessoas VALUES('Maria',40,'maria_123@gmail.com')")
 # cursor.execute("INSERT INTO pessoas VALUES('Leonardo',36,'leorverga@gmail.com')")
+cursor.execute("INSERT INTO pessoas VALUES('Pablo',89,'pablito@gmail.com')")
 
 # banco.commit()
 
